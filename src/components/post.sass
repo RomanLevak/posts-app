@@ -1,0 +1,24 @@
+@import ../colors
+
+.post
+  padding: 0 1.2rem
+  &__title
+    text-transform: capitalize
+    text-align: center
+  &__body
+    &-wrap
+      position: relative
+      padding-bottom: 2rem
+      border-bottom: 1px solid $grey
+    margin: 1rem 0
+  &__btn-wrap
+    position: absolute
+    right: 0
+    bottom: .2rem
+  &__btn-delete
+    color: $red
+    border-color: $red
+    margin-left: 0.5rem
+  &__btn-edit
+    color: $yellow
+    border-bottom: 2px solid $yellow

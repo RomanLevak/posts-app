@@ -1,3 +1,11 @@
+This application allows you to explore, edit or create  
+posts at https://jsonplaceholder.typicode.com/
+
+## To install all dependencies and run:
+### `npm install`
+### `npm start`
+go to http://localhost:3000
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
